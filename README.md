@@ -13,3 +13,6 @@ A Software Engineer passionate about creating meaningful and impactful projects.
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MernaGamalShenouda&layout=compact&theme=radical" style="width:50%; height:100%;" />
 </div>
+
+![Top Languages and Tools Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
