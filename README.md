@@ -1,6 +1,6 @@
 ### Hi there, I'm Merna Gamal👋
 
-I'm a Software Engineer passionate about creating meaningful and impactful projects. Currently, I'm a part of the ITI Intern Track Open Source Intake 44.
+A Software Engineer passionate about creating meaningful and impactful projects. Currently, I'm a part of the ITI Intern Track Open Source Intake 44.
 
 - 🔭 I’m currently working on improving my coding skills and contributing to open-source projects.
 - 🌱 I’m currently learning new technologies and exploring different areas of software development.
@@ -10,4 +10,6 @@ I'm a Software Engineer passionate about creating meaningful and impactful proje
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm also passionate about acting and love to explore different characters on stage.
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MernaGamalShenouda&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MernaGamalShenouda&layout=compact&theme=radical" />
+</div>
