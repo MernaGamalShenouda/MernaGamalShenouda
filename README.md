@@ -11,6 +11,6 @@ A Software Engineer passionate about creating meaningful and impactful projects.
 - ⚡ Fun fact: I'm also passionate about acting and love to explore different characters on stage.
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MernaGamalShenouda&layout=compact&theme=radical" style="width:50%; height:100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MernaGamalShenouda&layout=compact&theme=tokyonight" style="width:50%; height:100%;" />
 </div>
 
